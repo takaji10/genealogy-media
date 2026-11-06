@@ -1,6 +1,6 @@
 Media build - 2026-11-06
 Files built: 1664
-Originals read: 5496 MB
+Originals read: 5494 MB
 
 Wanted but not found in the gpkg (check in Gramps: the media was probably renamed or added after the package was exported):
   - Documents/Archive/Genealogy/Flatt/Patzer, Harold Rudolph (I0438)/Patzer, Harold Rudolph (I0438) - Profile Photo.jpg
