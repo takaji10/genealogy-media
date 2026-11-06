@@ -1,2 +1,8 @@
-Media build - {"files": 1872}
-Size of originals read: 5755 MB
+Media build - 2026-11-06
+Files built: 1664
+Originals read: 5496 MB
+
+Wanted but not found in the gpkg (check in Gramps: the media was probably renamed or added after the package was exported):
+  - Documents/Archive/Genealogy/Flatt/Patzer, Harold Rudolph (I0438)/Patzer, Harold Rudolph (I0438) - Profile Photo.jpg
+  - Documents/Archive/Genealogy/Zelmer/Abramowski, Rudolf (I4078)/Abramowski, Rudolf (I4078) & Zellmer, Hulda (I3461) - Marriage, 1924 (C1752).jpg
+  - Documents/Archive/Genealogy/Zelmer/Celmer, Alma Mathilda (I3652)/Celmer, Alma Mathilda (I3652) Krueger, Richard (I3655) - Headstone (C1185)& .jpg
